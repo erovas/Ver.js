@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/erovas/Ver.js/blob/master/Ver.js-logo.png" width="137.5" heigth="151.75">
+  <img src="https://github.com/erovas/Ver.js/blob/master/Ver.js.png" width="137.5" heigth="151.75">
 </p>
 <p align="center">
   Ver.js es un mini framework de JavaScript para la creación de componentes web personalizados.
