@@ -7,7 +7,17 @@
 
 ## Introducción
 
+Ver.js is un mini framework para construir componentes webs personalizados, que ayuda a encapsular logica, estilos y plantillas del componente creado.
+
+Los componentes creados y registrados con Ver.js, se pueden agregar al DOM y Ver.js se encargará de renderizarlos.
+
 ## Documentación
+
+Para probar [ejemplos](#/) (en construcción) y ver la documentación, visite [Pagina](#/) (en construcción)
+
+### Compatibilidad con exploradores
+
+Ver.js soporta todos los exploradores que sean [ECMAScript 5](http://kangax.github.io/compat-table/es5/), no hay soporte para Internet Explore (IE).
 
 ## Autor
 
